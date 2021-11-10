@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="top_icon">Top Icon</string>
+    <string name="email">Eamil</string>
+    <string name="project_title">Attendence Management System</string>
+    <string name="signup">Sign Up</string>
+    <string name="code">Code</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="id">Id</string>
+    <string name="Attandence">See Attandence</string>
+    <string name="web_client_id">470847643899-q18rdmut9puofdk55qd571gaomjo9l80.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">375642510909314</string>
+    <string name="fb_login_protocol_scheme">fb375642510909314</string>
+
+
 </resources>

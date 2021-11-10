@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470847643899",
+    "project_id": "attandence-management-sy-6c0fe",
+    "storage_bucket": "attandence-management-sy-6c0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470847643899:android:4e1e8a3f855195692ed05e",
+        "android_client_info": {
+          "package_name": "com.blogingthunder.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470847643899-ifq1v165hgeds1e7tuli098jhogrmr54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvTAr0c2spbA90bhyh13AfUfW2JhUkmBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470847643899-ifq1v165hgeds1e7tuli098jhogrmr54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
